@@ -8,7 +8,7 @@
 
 # Install
 
-You can get `Alfred-Base64-Format` via [release](https://github.com/mayooot/alfred-base64-format/releases)
+You can get `Alfred-Base64-Format` via [release](https://github.com/mayooot/alfred-base64-fromat/releases)
 or `git clone`
 this repo.
 
